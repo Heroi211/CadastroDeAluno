@@ -1,0 +1,7 @@
+C:\Users\gabriel.drumond\source\repos\CadastroDeAlunosConjuntos\CadastroDeAlunosConjuntos\bin\Debug\CadastroDeAlunosConjuntos.exe.config
+C:\Users\gabriel.drumond\source\repos\CadastroDeAlunosConjuntos\CadastroDeAlunosConjuntos\bin\Debug\CadastroDeAlunosConjuntos.exe
+C:\Users\gabriel.drumond\source\repos\CadastroDeAlunosConjuntos\CadastroDeAlunosConjuntos\bin\Debug\CadastroDeAlunosConjuntos.pdb
+C:\Users\gabriel.drumond\source\repos\CadastroDeAlunosConjuntos\CadastroDeAlunosConjuntos\obj\Debug\CadastroDeAlunosConjuntos.csprojAssemblyReference.cache
+C:\Users\gabriel.drumond\source\repos\CadastroDeAlunosConjuntos\CadastroDeAlunosConjuntos\obj\Debug\CadastroDeAlunosConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.drumond\source\repos\CadastroDeAlunosConjuntos\CadastroDeAlunosConjuntos\obj\Debug\CadastroDeAlunosConjuntos.exe
+C:\Users\gabriel.drumond\source\repos\CadastroDeAlunosConjuntos\CadastroDeAlunosConjuntos\obj\Debug\CadastroDeAlunosConjuntos.pdb
